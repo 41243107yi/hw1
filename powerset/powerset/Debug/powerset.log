@@ -1,3 +1,0 @@
-﻿  powerset.cpp
-C:\Users\aaa\OneDrive\桌面\Project1\powerset\powerset\powerset\powerset.cpp(5,22): warning C4244: '正在初始化': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
-  powerset.vcxproj -> C:\Users\aaa\OneDrive\桌面\Project1\powerset\powerset\Debug\powerset.exe
